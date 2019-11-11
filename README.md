@@ -1,5 +1,9 @@
 # My Readme Files
-A collection of the guidance to use some tools/software/methods and their environment setting.
+
+__I BELIEVE NOBODY LIKES 'DIRTY WORK'!__
+
+
+So I created this repository to meke the 'dirty work' can be easily handled. This is a collection of the guidance to use some tools/software/methods and their environment setting.
 
 Now in this repository, we have the following topics:
 
