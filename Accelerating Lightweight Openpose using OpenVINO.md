@@ -84,7 +84,7 @@ if the download speed is too slow, please add other source to your source list, 
 ### Run the Lightweight Openpose
 Please go to [Githhub](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation.pytorch) to download the Lightweight Openpose source code implemented with Pytorch. You may also need to download th COCO API/dataset to do the testing or training. 
 
- Now we have the converted model and the OpenVINO, next we need to compile the source code (C++ version) to run the network. The source code is provided by OpenVINO Toolkit, which can be found in the _/opt/intel/openvino/deployment_tools/open_model_zoo/demos_ folder. What we need to do here is to compile and run it!
+ Now we have the converted model and the OpenVINO, next we need to compile the source code (C++ version) to run the network. The source code of human_pose_estimation_demo is provided by OpenVINO Toolkit, which can be found in the _/opt/intel/openvino/deployment_tools/open_model_zoo/demos_ folder. What we need to do is compiling and running it!
  
 To Compile the C++ version of the source code, please refer to the _/opt/intel/openvino/deployment_tools/demo/demo_squeezenet_download_convert_run.sh_. For simplicity, I provided my test_LightweightOpenPose.sh. You can use this file to compile and run the converted Lightweight Openose network. Please Note that you may need to modify the paths to the .xml and .mp4 files.
 	
