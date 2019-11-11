@@ -1,7 +1,6 @@
 '''
-@author: Yu Sun
 @contact: vxallset@outlook.com
-@Last modified: Nov 3, 2019
+@Last modified: Nov 11, 2019
 '''
 
 # Tensorflow-gpu-installation
