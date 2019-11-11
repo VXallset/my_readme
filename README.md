@@ -1,2 +1,2 @@
-# notebook
-A collection of the steps to use some tools/software/methods and their environment setting.
+# My_readme
+A collection of the guidance to use some tools/software/methods and their environment setting.
